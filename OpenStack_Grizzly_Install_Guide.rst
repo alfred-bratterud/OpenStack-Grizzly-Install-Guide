@@ -718,6 +718,9 @@ Status: Stable
    apt-get update -y
    apt-get upgrade -y
    apt-get dist-upgrade -y
+   
+   
+* Reboot the compute node
 
 * Install ntp service::
 
